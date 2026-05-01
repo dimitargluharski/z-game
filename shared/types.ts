@@ -27,3 +27,7 @@ export enum GamePhase {
 
 export const GRID_SIZE = 20;
 export const CELL_SIZE = 32;
+export const TILE_WIDTH = 64;
+export const TILE_HEIGHT = 32;
+export const TILE_HALF_WIDTH = TILE_WIDTH / 2;
+export const TILE_HALF_HEIGHT = TILE_HEIGHT / 2;
